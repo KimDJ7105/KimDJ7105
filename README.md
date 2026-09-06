@@ -1,6 +1,6 @@
 ### 김동재 — Game Server Programmer
 
-C++ 기반 네트워크·동시성 프로그래밍을 중심으로, 게임 서버부터 클라우드 인프라까지 다뤄왔습니다. 새로운 기술을 접할 때는 생성형 AI를 학습·구현 도구로 적극 활용하되, 최종 판단과 검증은 로그와 테스트로 직접 합니다.
+게임 프로그래머를 지망하며, 서버·네트워크 프로그래밍에 특화되어 있습니다.
 
 **주요 프로젝트**
 
@@ -13,4 +13,4 @@ C++ 기반 네트워크·동시성 프로그래밍을 중심으로, 게임 서�
 
 **기술 스택**
 
-C++ · Go · TypeScript · Boost.Asio · Kubernetes · AWS · Docker
+C++ · C# · IOCP · Boost.Asio · Multithreading · Go · Docker · Kubernetes · AWS
